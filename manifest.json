@@ -1,0 +1,22 @@
+{
+  "name": "qq_praise",
+  "version": "1.0.0",
+  "description": "QQ名片点赞插件：bot 自主决定给 @ 求赞的人或想宠的人点赞",
+  "author": "折木",
+  "dependencies": {
+    "plugins": [],
+    "components": []
+  },
+  "include": [
+    {
+      "component_type": "action",
+      "component_name": "praise_user",
+      "dependencies": [],
+      "enabled": true
+    }
+  ],
+  "entry_point": "plugin.py",
+  "api_version": "1.0.0",
+  "python_dependencies": [],
+  "dependencies_required": true
+}
