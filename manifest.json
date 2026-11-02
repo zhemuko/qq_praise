@@ -18,5 +18,14 @@
   "entry_point": "plugin.py",
   "api_version": "1.0.0",
   "python_dependencies": [],
-  "dependencies_required": true
+  "dependencies_required": true,
+  "categories": [
+    "tool"
+  ],
+  "tags": [
+    "qq",
+    "like",
+    "praise",
+    "action"
+  ]
 }
